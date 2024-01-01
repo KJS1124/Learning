@@ -13,6 +13,8 @@ kanban-plugin: basic
 - [ ] find about mem table
 - [ ] find more about storage on disk
 - [ ] find more about merkleetree and its usage
+- [ ] paxos algorithm
+- [ ] trie usage
 
 
 ## todo
@@ -34,6 +36,3 @@ kanban-plugin: basic
 {"kanban-plugin":"basic"}
 ```
 %%
-
-
-#Cassandra
